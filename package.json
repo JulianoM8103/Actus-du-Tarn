@@ -1,0 +1,19 @@
+{
+  "name": "actus-du-tarn",
+  "version": "0.0.1",
+  "description": "Actus du Tarn est un site pouvant informer de ce qui se passe dans la région du Tarn.",
+  "main": "Index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianoM8103/Actus-du-Tarn.git"
+  },
+  "author": "Juliano.M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianoM8103/Actus-du-Tarn/issues"
+  },
+  "homepage": "https://github.com/JulianoM8103/Actus-du-Tarn#readme"
+}
